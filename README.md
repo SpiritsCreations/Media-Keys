@@ -8,14 +8,10 @@ First of all, download and install AutoHotkey on your computer, which is straigh
 
 Then go ahead and run Media_Keys.ahk
 
-The new control key combinations are:
-Ctrl + Alt + Left : Previous
-Ctrl + Alt + Right : Next
-Ctrl + Alt + Down : Play/Pause
-Ctrl + Shift + Alt + Left : Volume Down
-Ctrl + Shift + Alt + Right: Volume Up
-Ctrl + Shift + Alt + Down : Mute/Unmute
+The new control key combinations are: 
 
+![Media_Keys](https://user-images.githubusercontent.com/97816274/196309636-6e065418-5949-41ce-9ba0-a03c6c00729d.png)
+ 
 To make it run on every start, right-click on the script file you created and Compile Script,
 which creates an executable file that you can place into the startup folder.
 
